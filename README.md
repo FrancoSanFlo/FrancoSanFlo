@@ -1,7 +1,15 @@
 # Franco Sánchez 🚀
 
-Passionate software developer eager to explore new technologies and continuously learn new skills.
+# 💻 Desarrollador de Software
 
-My personal interest is focused on frontend development; however, with the experience I've gained in my first year as a developer, I've also been involved in full-stack development, thanks to my current position.
+Apasionado por la tecnología y el desarrollo de software, siempre buscando aprender, innovar y crear soluciones que marquen la diferencia. 💡
 
-One of my goals is to create high-quality, scalable software that can make people's lives a little easier.
+## 🎨 Especialidad: Desarrollo Full-Stack con enfoque principal en Frontend
+
+Mi experiencia se centra en el desarrollo frontend, donde he diseñado y optimizado arquitecturas modernas para aplicaciones de alto rendimiento, asegurando escalabilidad y mantenibilidad. Complemento esto con un sólido conocimiento en desarrollo full-stack, donde he liderado la creación de sistemas integrales, desde la lógica de negocio hasta la implementación de infraestructuras eficientes y seguras. Mi enfoque técnico incluye la integración de APIs, gestión de bases de datos, y la implementación de protocolos de seguridad avanzados para garantizar la confiabilidad y escalabilidad de las soluciones. ⚡
+
+## 🎯 Misión: Construir Software de Impacto
+
+Mi objetivo es desarrollar aplicaciones escalables, eficientes y centradas en la experiencia del usuario, simplificando procesos y mejorando la vida de las personas a través de la tecnología. 🚀
+
+Siempre abierto a nuevos retos.
